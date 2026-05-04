@@ -1,0 +1,5 @@
+*.dec.yaml
+*.decrypted.yaml
+kubeconfig
+.env
+*.key
