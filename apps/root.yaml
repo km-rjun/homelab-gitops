@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/km-rjun/homelab-gitops
-    targetRevision: main
+    targetRevision: master
     path: apps
   destination:
     server: https://kubernetes.default.svc
